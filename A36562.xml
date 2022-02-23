@@ -1,0 +1,475 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An hymen[aea]n essay, or, An epithalamy upon the royall match of ... Charles the Second, with the most illustrious Katharine, Infanta of Portugall, 1662 by J.D.</title>
+            <author>J. D. (John Drope), 1626-1670.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36562</idno>
+            <idno type="STC">Wing D2189</idno>
+            <idno type="STC">ESTC R12884</idno>
+            <idno type="EEBO-CITATION">12334384</idno>
+            <idno type="OCLC">ocm 12334384</idno>
+            <idno type="VID">59731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 59731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 208:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An hymen[aea]n essay, or, An epithalamy upon the royall match of ... Charles the Second, with the most illustrious Katharine, Infanta of Portugall, 1662 by J.D.</title>
+                  <author>J. D. (John Drope), 1626-1670.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxen :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Drope. Cf. BM.</note>
+                  <note>Place of publication from NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+               <term>Catherine, --  of Braganza, Queen, consort of Charles II, King of England, 1638-1705 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:59731:1"/>
+            <p>AN Hymen<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an Eſſay, OR An EPITHALAMY, UPON THE ROYALL MATCH OF HIS moſt Excellent Majeſty <hi>CHARLES</hi> the Second, with the moſt Illuſtrious <hi>KATHARINE,</hi> Infan<g ref="char:EOLhyphen"/>ta of <hi>PORT<g ref="char:V">Ʋ</g>GALL.</hi> 1662.</p>
+            <p>By J. D.</p>
+            <p>Printed in the Yeare, M.DC.LXII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:59731:2"/>
+            <head>
+               <hi>
+                  <g ref="char:V">Ʋ</g>PON THE ROYALL MATCH, OF HIS moſt Excell<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt Majeſty,</hi> CHARLES <hi>the Second, with the moſt illuſtrious</hi> CATHARINE, <hi>Infanta of Portugall.</hi>
+            </head>
+            <lg>
+               <l>THe <hi>Bride-God</hi> lately met the <hi>Powe'rs of Love,</hi>
+               </l>
+               <l>
+                  <hi>Venus</hi> and <hi>Cupid,</hi> as they <hi>looſly</hi> rove</l>
+               <l>About <hi>Iberian</hi> Provinces: his breaſt</l>
+               <l>With indignation juſtly was poſſeſt;</l>
+               <l>When thus the <hi>ſoft ones</hi> did he <hi>ſternly</hi> greet:</l>
+               <l>Now muſt I vent; ſince we ſo ſeldome meet.</l>
+               <l>Shall you ſtill <hi>act</hi> without me here in <hi>Spain;</hi>
+               </l>
+               <l>And <hi>to no purpoſe</hi> longer me detain,</l>
+               <l>Where I am <hi>nothing;</hi> no more honour have</l>
+               <l>Then <hi>Africk Negro,</hi> or poor <hi>Indian Slave?</hi>
+               </l>
+               <l>True you raign like your ſelves; and have ſo common</l>
+               <l>Not only <hi>worſhip</hi> both of Man and Woman;</l>
+               <l>But they themſelves your <hi>Sarifices</hi> come,</l>
+               <l>
+                  <hi>Willing,</hi> nay <hi>willfull,</hi> in an <hi>hecatombe.</hi>
+               </l>
+               <l>Upon your <hi>downy Altars</hi> moſt expire,</l>
+               <l>Where firſt they kindled, in their own <hi>baſe fire.</hi>
+               </l>
+               <l>In <hi>Taurica Diana</hi> was content</l>
+               <l>With a few <hi>Strangers</hi> by hard Fortune ſent:</l>
+               <l>But you have willing victims, not from far;</l>
+               <l>They are your <hi>friends,</hi> and moſt <hi>familiar.</hi>
+               </l>
+               <l>So let it be, and (if it might be) more;</l>
+               <l>Since they can you, without my ſelf, adore:</l>
+               <l>Whom they ſo ſlight, that, if they chance to uſe me,</l>
+               <l>Within a week or two they ſoon abuſe me.</l>
+               <pb n="4" facs="tcp:59731:3"/>
+               <l>When maryed. <hi>Spaniards,</hi> who no aequall brook,</l>
+               <l>Their <hi>chiefeſt ſervants,</hi> not their <hi>conſorts,</hi> took.</l>
+               <l>So leaving you (for you leave mee) awhile;</l>
+               <l>I'll poſt for <hi>Englands brave <g ref="char:V">Ʋ</g>xorious Ile.</hi>
+               </l>
+               <l>Which if your <hi>
+                     <g ref="char:V">Ʋ</g>ncle</hi> did not ſo embrace,</l>
+               <l>I would; 'twere min<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as <hi>every Womans place.</hi>
+               </l>
+               <l>Howe're that famous Iſle I ſhall prefer,</l>
+               <l>(<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f you love diſtance) in diameter</l>
+               <l>To your notorious <hi>Cyprus;</hi> where <hi>North-Weſt,</hi>
+               </l>
+               <l>And you <hi>South-eaſt,</hi> I ſhall contented reſt.</l>
+               <l>The <hi>Braveſt Prince</hi> there ſhall <hi>I</hi> firſt attend:</l>
+               <l>And ſhall not loſe mine honour nor mine end.</l>
+               <l>When all his <hi>manly virtues</hi> ſhall combine</l>
+               <l>With his Queenes <hi>Graces ſweetly Feminine.</hi>
+               </l>
+               <l>They <hi>Virtues</hi> in the <hi>abſtract,</hi> there will be,</l>
+               <l>To my renoun, in two <hi>Polygamy.</hi>
+               </l>
+               <l>Beſides I know, that each inferiour ſtate</l>
+               <l>Will zealouſly their Princes imitate.</l>
+               <l>As <hi>Kings</hi> get <hi>Kings,</hi> their Loyalty does binde,</l>
+               <l>That they contemporary <hi>Subjects</hi> finde.</l>
+               <l>They ſeiſe the quarters of the World; they plant,</l>
+               <l>And cheequer <hi>Africk</hi> with Inhabitant.</l>
+               <l>They ſend <hi>Nobility</hi> and <hi>Gentry</hi> firſt,</l>
+               <l>And valiant <hi>Veteranes</hi> there to be nurſt:</l>
+               <l>Whereas your <hi>mounted City</hi> did compile</l>
+               <l>It ſelf with <hi>Rogues</hi> for ſhelter of <hi>Aſyle.</hi>
+               </l>
+               <l>Theſe muſt ſurmount them then: if gen'rous ſeed</l>
+               <l>Will a more Noble fruit and of spring breed.</l>
+               <l>And from the <hi>Engliſh</hi> pedigree may come</l>
+               <l>Another <hi>Punick</hi> to affright your <hi>Rome.</hi>
+               </l>
+               <l>So in <hi>America</hi> my honour's ſeen,</l>
+               <l>Where I can ſcarce remember to have been,</l>
+               <pb n="5" facs="tcp:59731:3"/>
+               <l>By benefit of them no manhood want,</l>
+               <l>But double have, who <hi>conquer</hi> and who <hi>plant.</hi>
+               </l>
+               <l>And can I chooſe but honour then that Nation,</l>
+               <l>That honours me thus in their propagation?</l>
+            </lg>
+            <lg>
+               <l>When <hi>Cytherea</hi> mildely anſwer'd thus:</l>
+               <l>The Peoples crime why doeſt object to us,</l>
+               <l>Againſt our wills ſo <hi>impiouſly devout?</hi>
+               </l>
+               <l>'Twere beſt for all that thou wert not left out.</l>
+               <l>Mine and my Sons deſign and occupation</l>
+               <l>Is not the <hi>Death</hi> of men, but <hi>Procreation.</hi>
+               </l>
+               <l>Nor do I hinder, or thy words refell;</l>
+               <l>But will promote the motion lik'd ſo well.</l>
+               <l>Yet pray excuſe my preſence: 't is uncouth</l>
+               <l>For me to Travail from the warmer South.</l>
+               <l>Nor can I in thoſe <hi>Britains</hi> much delight</l>
+               <l>In any ſenſe, <hi>content with litle night.</hi>
+               </l>
+               <l>My Son ſhall bear thee Company: for me</l>
+               <l>Take my advice. Conſider their degree,</l>
+               <l>And uſe <hi>them</hi> not as <hi>vulgars:</hi> leave then here,</l>
+               <l>My Lads, your <hi>Torches</hi> nor your <hi>badges</hi> bear:</l>
+               <l>They need no <hi>flames;</hi> their <hi>preſence</hi> is ſo <hi>bright;</hi>
+               </l>
+               <l>Your paler fires may <hi>burn,</hi> but ſhew no <hi>light.</hi>
+               </l>
+               <l>Their <hi>Court's</hi> perpetuall <hi>Day:</hi> and 'tis all one</l>
+               <l>To make a <hi>Candle</hi> aemulate the <hi>Sun.</hi>
+               </l>
+               <l>Since armes are odious now; pray Cupid uſe</l>
+               <l>No Archey: thy naked ſelf infuſe:</l>
+               <l>Be <hi>thou</hi> thy <hi>Arrow</hi> thus moſt expedite,</l>
+               <l>And ſhoot thee through their <hi>eys,</hi> yet out of <hi>ſight.</hi>
+               </l>
+               <l>When they <hi>ſalute,</hi> and <hi>ſeal</hi> th' agreement, then</l>
+               <l>Exchange their Souls; where fly to and ag'en;</l>
+               <pb n="6" facs="tcp:59731:4"/>
+               <l>Search every <hi>cloſet</hi> of them; every <hi>gate</hi>
+               </l>
+               <l>Or <hi>door</hi> of <hi>ſenſe</hi> be ſure thou <hi>penetrate.</hi>
+               </l>
+               <l>Then live in her ſo long, till <hi>incarnation</hi>
+               </l>
+               <l>Shall thee inveſt, <hi>compleat</hi> the <hi>generation</hi>
+               </l>
+               <l>Of ſuch a <hi>body,</hi> which ſhall onely move</l>
+               <l>By ſuch a <hi>ſoul,</hi> as is all purely <hi>Love,</hi>
+               </l>
+               <l>That as thy ſelf this <hi>univerſall Minion</hi>
+               </l>
+               <l>May have as <hi>univerſally dominion.</hi>
+               </l>
+               <l>And <hi>Hymen</hi> leave thy <hi>mantle;</hi> for the <hi>Zealous,</hi>
+               </l>
+               <l>Without thy <hi>Saffron,</hi> are already <hi>jealous.</hi>
+               </l>
+               <l>Though for the <hi>King</hi> thou goeſt, it may do harm;</l>
+               <l>And give <hi>miſpriſing Presbyters</hi> alarm,</l>
+               <l>Who, apt to take occaſion, will ſpread</l>
+               <l>From pulpit, <hi>Eſſex</hi> riſen from the dead.</l>
+               <l>So they to make the <hi>Eſſex</hi> will indeavour;</l>
+               <l>Though thou to <hi>Eſſex</hi> wert <hi>unlucky</hi> ever;</l>
+               <l>And moſt <hi>unlike,</hi> thou <hi>tender,</hi> and he <hi>brawny;</hi>
+               </l>
+               <l>Yet they will make thy <hi>Mantle orange-tawny.</hi>
+               </l>
+               <l>No <hi>war</hi> no <hi>threats,</hi> but <hi>mine,</hi> ſhall break the peace;</l>
+               <l>My <hi>wars</hi> are <hi>peacefull,</hi> and my <hi>labours eaſe.</hi>
+               </l>
+               <l>Tell him from me; <hi>that bluſhing Roſes ſcratch:</hi>
+               </l>
+               <l>
+                  <hi>And femal Monarchs do their honeys watch.</hi>
+               </l>
+               <l>Love's <hi>bitter-ſweet,</hi> the ſweeter ſo: and lo!</l>
+               <l>A mole in my fair face, and fairer ſo.</l>
+               <l>Obſerve <hi>my Laws,</hi> which never were defence</l>
+               <l>Unto <hi>my ſex,</hi> but <hi>gentle violence.</hi>
+               </l>
+               <l>Nor do <hi>thy Laws,</hi> brave <hi>Charles,</hi> forbid: be bold;</l>
+               <l>
+                  <hi>Without a witneſſe Laws can take no hold</hi>
+               </l>
+               <l>See how thy <hi>houſe</hi> does as thy <hi>houſes</hi> ly;</l>
+               <l>It's inſtauration why ſo <hi>late</hi> to try<g ref="char:punc">▪</g>
+               </l>
+               <pb n="7" facs="tcp:59731:4"/>
+               <l>O quickly heal thy much impayred Line:</l>
+               <l>Make them <hi>Immortal</hi> too that are <hi>Divine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The Gods intend it ſo, then <hi>Hymen</hi> ſayd,</l>
+               <l>Whom they from dangers deſperate convey'd</l>
+               <l>With <hi>Queens</hi> and <hi>Kingdoms</hi> and a <hi>Royal</hi> race</l>
+               <l>(Themſelves to heav'n <hi>return'd</hi>) to rule in place;</l>
+               <l>With ſuch as <hi>brave</hi> atchievements <hi>bravely</hi> write,</l>
+               <l>Thoſe <hi>Heroes</hi> for their Labours they requite.</l>
+               <l>So thy <hi>AEneas</hi> did through perils come</l>
+               <l>T' enjoy <hi>Lavinia</hi> with her <hi>Latium.</hi>
+               </l>
+               <l>The' adventures were alike; the diffe'rence is</l>
+               <l>The <hi>Poet</hi> wrote <hi>thy ſons,</hi> th' <hi>Hiſtorian his.</hi>
+               </l>
+               <l>
+                  <hi>Aeneas</hi> one <hi>mixt colony</hi> conſtrain'd;</l>
+               <l>By <hi>Charles</hi> the <hi>
+                     <g ref="char:V">Ʋ</g>niverſe</hi> is beſt maintain'd</l>
+               <l>By his <hi>own</hi> men: <hi>Africk, America</hi>
+               </l>
+               <l>Shall make him write, like <hi>Spain;</hi> &amp;c.</l>
+               <l>Which <hi>twiſted Dragons tayl</hi> ſhall hurl the <hi>Nations,</hi>
+               </l>
+               <l>As <hi>Stars</hi> the Dragons did i'th' Revelations.</l>
+            </lg>
+            <lg>
+               <l>But tell, ſayd <hi>Venus,</hi> how they could diſpatch</l>
+               <l>Through <hi>various obſtacles</hi> this <hi>happy Match.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>The <hi>ayry meſſenger,</hi> he anſwerd, <hi>Fame</hi>
+               </l>
+               <l>Blaſon'd with ſound of <hi>Trumpet</hi> firſt her <hi>Name</hi>
+               </l>
+               <l>Through neighbo'uring Kingdoms; then did neerer come,</l>
+               <l>And in his <hi>ear</hi> next beat the <hi>Royal Drumme</hi>
+               </l>
+               <l>With <hi>Braſil Stick;</hi> then took the <hi>Rapper</hi> there,</l>
+               <l>And knockt ſo loud, <hi>Charls</hi> open'd wide his ear:</l>
+               <l>Fame enter'd then; her <hi>Starry Servant</hi> Fame</l>
+               <l>Poſſeſs'd his Senſe and Soul, in <hi>Cupids</hi> name.</l>
+               <l>As <hi>Men</hi> love <hi>Angels</hi> which they yet not ſee;</l>
+               <l>So <hi>Royall Love's Coeleſtial Sympathy.</hi>
+               </l>
+               <pb n="10" facs="tcp:59731:5"/>
+               <l>Still ſtubbornly, allthough <hi>collapſed,</hi> they</l>
+               <l>
+                  <hi>Obſtruct Church-paths;</hi> and <hi>croſs the Kings high way.</hi>
+               </l>
+               <l>Nor will theſe <hi>Stumbling-Blocks</hi> e'er better prove them;</l>
+               <l>Till <hi>Overſeers</hi> do lift and quite remove them:</l>
+               <l>As theſe themſelves, both <hi>Root and Branch,</hi> o'rturn'd;</l>
+               <l>Let them likewiſe, both <hi>Root and Branch,</hi> be ſpurn'd.</l>
+               <l>Such, as are <hi>ſomewhat ſound,</hi> and may be <hi>ſquar'd,</hi>
+               </l>
+               <l>To <hi>edify</hi> beyond Sea be prepar'd</l>
+               <l>But <hi>dry</hi> and <hi>rotten Blocks,</hi> which were ſuch cruel</l>
+               <l>And <hi>Kindling Touch-wood</hi> to themſelves be <hi>fuell:</hi>
+               </l>
+               <l>While them their <hi>choler,</hi> burnt to black, conſumes;</l>
+               <l>And <hi>ſmother'd zeal,</hi> like <hi>ſtifled charcoal,</hi> fumes.</l>
+               <l>Then, not till then, when <hi>huſht</hi> is all their <hi>Noiſe,</hi>
+               </l>
+               <l>Shall <hi>Charls ly quiet</hi> with his <hi>happy Choiſe.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Adieu; ſayd <hi>Hymen,</hi> then: we muſt remove;</l>
+               <l>We can no longer talk. So I and <hi>Love</hi>
+               </l>
+               <l>Will take our Voyage; leaving <hi>dle you;</hi>
+               </l>
+               <l>And bear another <hi>Faireſt</hi> hence in lieu:</l>
+               <l>VVhich, in her <hi>Empire</hi> when ſhe ſhall be ſeen,</l>
+               <l>Far rather will be deem'd the <hi>Cyprian Queen.</hi>
+               </l>
+               <l>
+                  <hi>She</hi> with her <hi>thouſand Graces,</hi> will inſtill</l>
+               <l>In ev'ry <hi>honeſt breaſt</hi> immenſe <hi>good-will.</hi>
+               </l>
+               <l>(In all <hi>good hearts</hi> I ſay; but there are ſuch</l>
+               <l>VVhoſe <hi>black malignance Candour</hi> cannot touch.)</l>
+               <l>
+                  <hi>You,</hi> and your <hi>Three,</hi> need not for her to act:</l>
+               <l>She! <hi>numerous ſhee</hi> will all that's good attract.</l>
+               <l>
+                  <hi>She in Conjunction</hi> (for they both are <hi>Stars</hi>)</l>
+               <l>VVill be much more <hi>Benign,</hi> then <hi>You</hi> with <hi>Mars;</hi>
+               </l>
+               <l>And cauſe that they no <hi>Peace,</hi> nor <hi>Plenty</hi> want;</l>
+               <l>VVhen <hi>new D<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lichium</hi> joyns with <hi>Troy-novant:</hi>
+               </l>
+               <pb n="11" facs="tcp:59731:5"/>
+               <l>When <hi>Golden Tagus Sylver Thameſis</hi>
+               </l>
+               <l>Meet in their <hi>wat'ry rendez-vous,</hi> and <hi>kiſs;</hi>
+               </l>
+               <l>So eagerly <hi>incorporate,</hi> as both</l>
+               <l>Would mean ſome other <hi>Venus</hi> by their <hi>froth.</hi>
+               </l>
+               <l>
+                  <hi>Tagus</hi> ſhall doat on <hi>Tameſis;</hi> and burn</l>
+               <l>Enough to <hi>try</hi> his <hi>ore;</hi> enough to turn</l>
+               <l>His <hi>ſandy atoms</hi> to a <hi>maſſe,</hi> and ſend</l>
+               <l>His <hi>native preſent</hi> to his <hi>noble friend:</hi>
+               </l>
+               <l>Who ſhall return by <hi>Thouſands</hi> then his thanks;</l>
+               <l>And helpe <hi>Protect</hi> his amicable <hi>Banks;</hi>
+               </l>
+               <l>So long as <hi>he</hi> ſhall from <hi>Iberus</hi> run;</l>
+               <l>Which ſeeks the <hi>Riſing,</hi> he the <hi>Setting</hi> Sun;</l>
+               <l>Thoſe Banks, which now our Authors do <hi>not</hi> feign,</l>
+               <l>
+                  <hi>Swift Mares, conceiving Zephyrus,</hi> ſuſtain;</l>
+               <l>And whoſe <hi>ſwift vital courſe</hi> is but <hi>three yeers:</hi>
+               </l>
+               <l>For theſe to be his <hi>Eaſtern fleet</hi> appears;</l>
+               <l>Which in her <hi>poop</hi> conceives the <hi>Weſtern gales;</hi>
+               </l>
+               <l>And <hi>rides triennial</hi> liquid hills and dales;</l>
+               <l>Well burthen'd with all raritys, to greet</l>
+               <l>His <hi>Thames;</hi> and lay them at his <hi>ſilver feet.</hi>
+               </l>
+               <l>
+                  <hi>Scorning</hi> with mere <hi>domestick</hi> gifts to woo,</l>
+               <l>He ventures far, to fetch <hi>exotick</hi> too.</l>
+               <l>True amity, where beſt things <hi>common</hi> ſtand:</l>
+               <l>Free as his <hi>Waters</hi> he diſpenſes <hi>Land:</hi>
+               </l>
+               <l>And ſays, his <hi>Nymph</hi> ſhall, to their <hi>glorious King,</hi>
+               </l>
+               <l>Both <hi>glorious Kings</hi> and <hi>glorious Kingdoms</hi> bring.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Theſe Youths</hi> inform'd me thus; and gave this <hi>Theme</hi>
+               </l>
+               <l>(As they come often to me) in a <hi>dream.</hi>
+               </l>
+               <l>Wak'd, with the <hi>ſolemne noiſe,</hi> I fell to pray</l>
+               <l>All might be real that theſe <hi>Angels</hi> ſay:</l>
+               <pb n="12" facs="tcp:59731:6"/>
+               <l>That (if not <hi>peerleſs</hi>) <hi>ſhe</hi> may be no other</l>
+               <l>Then was, for <hi>Wife</hi> and <hi>Queen, his pious Mother.</hi>
+               </l>
+               <l>May <hi>ſhee</hi> have what's the <hi>Queens;</hi> he what's the <hi>Kings;</hi>
+               </l>
+               <l>Enjoy all <hi>Honours,</hi> but of <hi>Sufferings.</hi>
+               </l>
+               <l>VVhileſt <hi>Wee</hi> are bleſt by <hi>both:</hi> And every Summer</l>
+               <l>Enlarge our <hi>Wellcomes</hi> to a <hi>Royall Comer.</hi>
+               </l>
+               <l>VVhen firſt we had him <hi>ſingle,</hi> how amaz'd</l>
+               <l>VVere <hi>ardent</hi> hearts, which as their <hi>bonfires,</hi> blaz'd.</l>
+               <l>Yet with <hi>him</hi> joys are <hi>doubled;</hi> and do thrive</l>
+               <l>Into a <hi>jubily ſuperlative.</hi>
+               </l>
+               <l>But when hee's <hi>trebled</hi> with a <hi>Royal Boy,</hi>
+               </l>
+               <l>O! then exceeding <hi>joy, exceeding joy,</hi>
+               </l>
+               <l>VVill grow <hi>ecſtatick:</hi> VVhen <hi>thrice</hi> happy, VVee</l>
+               <l>Rapt to our <hi>third</hi> terreſtrial <hi>Heaven</hi> ſhall bee.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
